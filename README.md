@@ -74,7 +74,7 @@ This repository is a collection of my learnings and practice projects with **GSA
 ## 📦 Installation
 ```bash
 1. Clone the repository:
-   git clone https://github.com/Vijay-Keshvala/GSAP-Practise.git
+   git clone https://github.com/Vijay-Keshvala/GSAP-Practice.git
 
 
 2. Navigate to the project directory:
