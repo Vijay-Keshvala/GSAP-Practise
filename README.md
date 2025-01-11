@@ -72,12 +72,12 @@ This repository is a collection of my learnings and practice projects with **GSA
 ---
 
 ## 📦 Installation
-```bash
 1. Clone the repository:
    git clone https://github.com/Vijay-Keshvala/GSAP-Practise.git
 
 
 2. Navigate to the project directory:
+```bash
     cd GsapPractice
 
 
@@ -89,6 +89,9 @@ This repository is a collection of my learnings and practice projects with **GSA
 
 4. Start the development server:
     npm run dev
+
+```
+
 
 
 🧑‍💻 Usage
